@@ -1,6 +1,6 @@
-`define TOTAL_APPS 1
+`define TOTAL_APPS 3
 
-`define EXAMPLE 1
+`define PERIPLEX 3
 
 `define VERSION "1.2.0"
 
